@@ -1,13 +1,13 @@
-# Welcome to my GitHub repo 👋
+# Welcome to my GitHub profile 👋
 Hi there! Here you'll find about me, my projects and some of my blog articles about **data science**.
 
 ## Who am I? 🤵
-My name is Axel Yaguana (hi/him/his). I like to use data to solve problems and help people. Since I was a child I was interested in science and, maybe, that's why I'm pursuing a career in data science. One of my values is **never stop learning**. That's the key to face uncertainty and achieve goals.
+I'm a tech and science enthusiast who uses data to solve problems. I like coding in Python. I never stop learning.
 
 I live in my home city Loja with my cat and dog. 🐾 I work remotely from here.
 
 ## Blog articles 📜
-As I never stop learning, I never stop sharing knowledge. So, I started blogging about data science on Medium. Some blogs are in Spanish and others in English.
+Some blogs are in Spanish and others in English.
 
 * [Check my Blog on Medium](https://medium.com/@axlyaguana11).
 * [I also store my projects on Deepnote](https://deepnote.com/@axlyaguana11).
@@ -19,6 +19,7 @@ As I never stop learning, I never stop sharing knowledge. So, I started blogging
 * [Send me an email](mailto:axlyaguana11@gmail.com)
 
 ✔️Feel free to ask me about anything. We're human beings and interaction is in our genetics. Don't hesitate to contact me, I'll be happy to talk to you!
+
 
 <!--
 **axlyaguana11/axlyaguana11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
