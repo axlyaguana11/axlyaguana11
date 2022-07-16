@@ -1,24 +1,35 @@
-# Welcome to my GitHub profile 👋
-Hi there! Here you'll find about me, my projects and some of my blog articles about **data science**.
+# Hi, I'm Axel Yaguana 👋
 
-## Who am I? 🤵
-I'm a tech and science enthusiast who uses data to solve problems. I like coding in Python. I never stop learning.
+I'm a data analyst with experience in edtech and fast-growing startup environments. My work has positively impacted the life of thousands of Latin Americans, helping them acquire high in demand skills. 
 
-I live in my home city Loja with my cat and dog. 🐾 I work remotely from here.
+My academic background is civil engineering with scientific computing approach. Here I developed scripts for computational mechanics using Python and Matlab. I also participated in the integration of new students to the Academia, helping them succeed. 
+
+💼I'm currently working as a Quality Assurance Associate at [Platzi](https://platzi.com/home).
+
+📍I live in Loja, Ecuador.
+
+## I'm interested in...
+
+* Computational statistics.
+* Python programming.
+* SQL.
+* Machine learning.
+* Data storytelling.
+* Technical writing.
+
 
 ## Blog articles 📜
-Some blogs are in Spanish and others in English.
+
+I love teaching data science and programming. Check my articles out.
+
+* [Axel Yaguana's blogs on Platzi](https://platzi.com/blog/autores/axl-yaguana/).
 
 * [Check my Blog on Medium](https://medium.com/@axlyaguana11).
-* [I also store my projects on Deepnote](https://deepnote.com/@axlyaguana11).
 
+[![Twitter: axlyaguana11](https://img.shields.io/twitter/follow/axlyaguana11?style=social)](https://twitter.com/axlyaguana11)
+[![Linkedin: Axel Yaguana Cruz](https://img.shields.io/badge/-Axel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/axel-yaguana-cruz/)](https://www.linkedin.com/in/axel-yaguana-cruz/)
+[![GitHub axlyaguana11](https://img.shields.io/github/followers/axlyaguana11?label=follow&style=social)](https://github.com/axlyaguana11)
 
-## Get in touch with me 💬
-* [Twitter](https://twitter.com/axlyaguana11)
-* [LinkedIn](https://www.linkedin.com/in/axel-yaguana-cruz/)
-* [Send me an email](mailto:axlyaguana11@gmail.com)
-
-✔️Feel free to ask me about anything. We're human beings and interaction is in our genetics. Don't hesitate to contact me, I'll be happy to talk to you!
 
 
 <!--
