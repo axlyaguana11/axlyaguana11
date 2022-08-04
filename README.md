@@ -8,6 +8,34 @@ My academic background is civil engineering with scientific computing approach. 
 
 📍I live in Loja, Ecuador.
 
+## Education
+
+### Universidad Técnica Particular de Loja
+Bachelor's degree, Civil Engineering 
+
+Focus areas:
+
+* Computational mechanics
+* Scientific computing
+* Statistical hydrology
+
+Thesis: Development of a platform to generate structural engineering reports
+
+## Online training
+
+### Platzi
+Courses about:
+* Software engineering 
+* Data science
+* Soft skills
+
+### Datacamp
+
+Career tracks:
+* Data Analyst in SQL
+* Data Analyst in Python
+
+
 ## I'm interested in...
 
 * Computational statistics.
@@ -22,7 +50,7 @@ My academic background is civil engineering with scientific computing approach. 
 
 I love teaching data science and programming. Check my articles out.
 
-* [Axel Yaguana's blogs on Platzi](https://platzi.com/blog/autores/axl-yaguana/).
+* [Axel Yaguana's blog on Platzi](https://platzi.com/blog/autores/axl-yaguana/).
 
 * [Check my Blog on Medium](https://medium.com/@axlyaguana11).
 
