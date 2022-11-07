@@ -1,5 +1,5 @@
 # Hi, I'm Axel Yaguana 👋
-
+<!--
 I'm a data analyst with experience in edtech and fast-growing startup environments. My work has positively impacted the life of thousands of Latin Americans, helping them acquire high in demand skills. 
 
 My academic background is civil engineering with scientific computing approach. Here I developed scripts for computational mechanics using Python and Matlab. I also participated in the integration of new students to the Academia, helping them succeed. 
@@ -45,10 +45,11 @@ Career tracks:
 * Data storytelling.
 * Technical writing.
 
+-->
 
 ## Blog articles 📜
 
-I love teaching data science and programming. Check my articles out.
+Check my articles out.
 
 * [Axel Yaguana's blog on Platzi](https://platzi.com/blog/autores/axl-yaguana/).
 
